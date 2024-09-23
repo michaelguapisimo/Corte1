@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|c:\\users\\home\\onedrive\\escritorio\\examen\\corte1,\\corte1,\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|c:\\users\\home\\onedrive\\escritorio\\examen\\corte1,\\corte1,\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|solutionrelative:corte1,\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\corte1,\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|solutionrelative:corte1,\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|c:\\users\\home\\onedrive\\escritorio\\examen\\corte1,\\corte1,\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|solutionrelative:corte1,\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\corte1,\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|solutionrelative:corte1,\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|c:\\users\\home\\onedrive\\escritorio\\examen\\corte1,\\corte1,\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|solutionrelative:corte1,\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|c:\\users\\home\\onedrive\\escritorio\\examen\\corte1,\\corte1,\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|solutionrelative:corte1,\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\corte1,\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{37C54529-7BF9-4E62-BEE9-DD680AF9A69D}|Corte1,\\Corte1,.csproj|solutionrelative:corte1,\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,23 +38,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Form1.cs",
               "RelativeDocumentMoniker": "Corte1,\\Form1.cs",
-              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Corte1,\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Form1.cs*",
+              "RelativeToolTip": "Corte1,\\Form1.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T15:58:15.74Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-23T16:07:42.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Corte1,\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Form1.Designer.cs*",
+              "RelativeToolTip": "Corte1,\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:05:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Program.cs",
+              "RelativeDocumentMoniker": "Corte1,\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Program.cs",
+              "RelativeToolTip": "Corte1,\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:03:48.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Registro.cs",
+              "RelativeDocumentMoniker": "Corte1,\\Registro.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Registro.cs*",
+              "RelativeToolTip": "Corte1,\\Registro.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:59:08.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Operacion.cs",
+              "RelativeDocumentMoniker": "Corte1,\\Operacion.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Operacion.cs",
+              "RelativeToolTip": "Corte1,\\Operacion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:58:57.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Persona.cs",
+              "RelativeDocumentMoniker": "Corte1,\\Persona.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Persona.cs",
+              "RelativeToolTip": "Corte1,\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:58:41.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Form1.cs",
+              "RelativeDocumentMoniker": "Corte1,\\Form1.cs",
+              "ToolTip": "C:\\Users\\Home\\OneDrive\\Escritorio\\Examen\\Corte1,\\Corte1,\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Corte1,\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:58:15.74Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

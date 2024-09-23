@@ -1,0 +1,5 @@
+C:\Users\Home\OneDrive\Escritorio\Examen\Corte1,\Corte1,\obj\Debug\Corte1,.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Escritorio\Examen\Corte1,\Corte1,\obj\Debug\Corte1_.Form1.resources
+C:\Users\Home\OneDrive\Escritorio\Examen\Corte1,\Corte1,\obj\Debug\Corte1_.Properties.Resources.resources
+C:\Users\Home\OneDrive\Escritorio\Examen\Corte1,\Corte1,\obj\Debug\Corte1,.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Escritorio\Examen\Corte1,\Corte1,\obj\Debug\Corte1,.csproj.CoreCompileInputs.cache
