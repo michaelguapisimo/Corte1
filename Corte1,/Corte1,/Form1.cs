@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace Corte1_
 {
-    public partial class Form1 : Form
+    public partial class Registrodeedades : Form
     {
         private Registro registro = new Registro();
         private Operacion operacion = new Operacion();
-        public Form1()
+        public Registrodeedades()
         {
             InitializeComponent();
         }
